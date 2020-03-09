@@ -1,0 +1,28 @@
+{
+  "name": "geop-bcn",
+  "version": "1.0.0",
+  "description": "Geoportal - Origen BCN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otrojota/geop-bcn.git"
+  },
+  "keywords": [
+    "Geoportal",
+    "BCN",
+    "pomeo",
+    "PUCV"
+  ],
+  "author": "Jota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otrojota/geop-bcn/issues"
+  },
+  "homepage": "https://github.com/otrojota/geop-bcn#readme",
+  "dependencies": {
+    "geop-base-proveedor-capas": "git+https://github.com/otrojota/geop-base-proveedor-capas.git"
+  }
+}
