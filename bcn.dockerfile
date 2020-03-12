@@ -1,5 +1,4 @@
-FROM node:12.3.1-alpine
-#ENV NODE_ENV production
+FROM otrojota/geoportal:gdal-nodejs-1.01
 WORKDIR /opt/geoportal/geop-bcn
 COPY . .
 RUN npm install 
