@@ -4,5 +4,6 @@
     },
     "minZUrl":"http://localhost:8191",
     "minZAuthToken":"g_geop.A12.admin,_",
-    "timeZone":"America/Santiago"
+    "timeZone":"America/Santiago",
+    "ineAPIKey":"93bfcd337dc2caff2abf4ff2addf63f2d9ee5980"
 }
