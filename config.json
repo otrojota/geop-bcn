@@ -2,7 +2,8 @@
     "webServer":{
         "http":{"port":8188}
     },
-    "minZUrl":"http://localhost:8191",
+    "minZUrl_bak":"http://localhost:8191",
+    "minZUrl":"http://www.pomeo.cl:8083/minz",
     "minZAuthToken":"g_geop.A12.admin,_",
     "timeZone":"America/Santiago",
     "ineAPIKey":"93bfcd337dc2caff2abf4ff2addf63f2d9ee5980"
